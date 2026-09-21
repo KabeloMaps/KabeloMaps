@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabelo Maponya</h1>
 <h3 align="center">Detail-oriented software engineer and Information Systems graduate with experience in web development, database engineering, and full-stack development. Proficient in React.js, TypeScript, Node.js, JavaScript, HTML, CSS, and C#. Strong problem-solving and analytical skills, with a deep understanding of UI/UX principles, RESTful APIs and Agile/Scrum methodologies. Experienced in version control (Git), CI/CD pipelines, AWS, and full-stack development.</h3>
 
-- 👨‍💻 All of my projects are available at [http://kabelo-dev.netlify.app]
+- 👨‍💻 All of my projects are available at [https://kabelo-maponya-portfolio.vercel.app]
 
 - 📫 How to reach me **khmaponya@gmail.com**
 
